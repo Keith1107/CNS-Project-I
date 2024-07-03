@@ -1,2 +1,1 @@
-# CNS-Project-I
-## IM GAY
+# Phishing Email and Website Detection System using OpenAI 
