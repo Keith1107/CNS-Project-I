@@ -30,9 +30,9 @@ $ sudo apt install git
 ## Usage
 To use the Phishing detection model, follow these steps:
 
-1. Create a Mininet topology by entering the following command:
-
-
+1. 
+2.
+3.
 
 ## Contribution
 Advice and contributions are welcome! Please submit a pull request if you have any suggestions, improvements, or bug fixes.
