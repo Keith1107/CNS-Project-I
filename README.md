@@ -35,10 +35,11 @@ To use the Phishing detection model, follow these steps:
 3.
 
 ## Contribution
-Advice and contributions are welcome! Please submit a pull request if you have any suggestions, improvements, or bug fixes.
+Advice and any contribution is welcomed! 
+Please submit a pull request if you have any suggestions, improvements, or bug fixes.
 
 ## Authors 
-Chilton Keith Simiyu
+Chilton Keith 
 
 ## Acknowledgments
 I would like to start by expressing my sincere gratitude to everyone who has contributed to the success of this project. I would like to thank my supervisor for his guidance, expertise, experience and unwavering support during the whole project writing and implementation process. I would also like to express my deepest gratitude to my parents for their support and guidance, which have been pivotal in my journey in school. Their endless love, encouragement, and sacrifices have been my driving force. Thank you for believing in me and standing by my side throughout this journey in school. I would also like to thank my friends and classmates for their support in school and home, for pushing me every time and helping me anytime I was stuck. Thank you all.
