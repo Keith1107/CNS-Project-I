@@ -10,11 +10,12 @@ This project aims to develop and implement an AI-based Phishing Detection System
 - Html
 - CSS
 - Gmail
+- git
 ## Installation
 To install the Phishing detection model, follow these steps:
-1. Install a version of Linux that can install a Python version between 3.7 to 3.9:
+1. Download and install any version of Linux that can install a Python version between 3.7 to 3.9:
 
-* This can be found at https://releases.ubuntu.com/
+* This can be found here https://releases.ubuntu.com/
 
 2. Update the system and install various tools to be used:
 
@@ -33,7 +34,7 @@ To use the Phishing detection model, follow these steps:
 
 
 
-## Contributing 
+## Contribution
 Advice and contributions are welcome! Please submit a pull request if you have any suggestions, improvements, or bug fixes.
 
 ## Authors 
